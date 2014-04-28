@@ -5,5 +5,5 @@
 <ul>
 <li>1st moment - mean</li>
 <li>2nd moment and co-moment - variance, covariance and correlation</li>
-<li>Higher moment - skewness and kurtosis</li>
+<li>Higher moments - skewness and kurtosis</li>
 </ul>
