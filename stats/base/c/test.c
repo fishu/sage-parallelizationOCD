@@ -6,4 +6,7 @@
 *	References:
 *	Numerically Stable, Single-Pass, Parallel Statistics Algorithms
 *	http://www.janinebennett.org/index_files/ParallelStatisticsAlgorithms.pdf
+*
 */
+
+#include <math.h>
